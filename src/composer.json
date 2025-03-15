@@ -1,0 +1,13 @@
+{
+    "name": "ANAHFT/tiktokdownloader",
+    "description": "A simple PHP library for downloading TikTok videos",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "TikTokDownloader\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
